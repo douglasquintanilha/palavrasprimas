@@ -1,5 +1,13 @@
 # Programa em C para solucionar o problema das Palavras Primas
 
+A solução do problema está em palavrasprimas.c .
+
+Criei um mini programa para gerar entradas aleatórias para serem testadas no Programa de Palavras Primas.
+Executar o geraentradas sem nenhum argumento gera 100 palavras.
+Também é possível executa-lo com um argumento, solicitando quantas palavras deseja-se gerar.
+Ex: ./geraentradas 150
+
+
 # Problema das Palavras Primas
 
 Um número primo é um número que possui somente dois divisores: ele mesmo e o número
